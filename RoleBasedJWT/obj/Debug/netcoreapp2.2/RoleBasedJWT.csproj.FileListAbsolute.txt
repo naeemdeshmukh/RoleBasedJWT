@@ -1,0 +1,14 @@
+C:\Users\SAPL_PC\source\repos\RoleBasedJWT\RoleBasedJWT\bin\Debug\netcoreapp2.2\RoleBasedJWT.deps.json
+C:\Users\SAPL_PC\source\repos\RoleBasedJWT\RoleBasedJWT\bin\Debug\netcoreapp2.2\RoleBasedJWT.runtimeconfig.json
+C:\Users\SAPL_PC\source\repos\RoleBasedJWT\RoleBasedJWT\bin\Debug\netcoreapp2.2\RoleBasedJWT.runtimeconfig.dev.json
+C:\Users\SAPL_PC\source\repos\RoleBasedJWT\RoleBasedJWT\bin\Debug\netcoreapp2.2\RoleBasedJWT.dll
+C:\Users\SAPL_PC\source\repos\RoleBasedJWT\RoleBasedJWT\obj\Debug\netcoreapp2.2\RoleBasedJWT.csprojAssemblyReference.cache
+C:\Users\SAPL_PC\source\repos\RoleBasedJWT\RoleBasedJWT\obj\Debug\netcoreapp2.2\RoleBasedJWT.csproj.CoreCompileInputs.cache
+C:\Users\SAPL_PC\source\repos\RoleBasedJWT\RoleBasedJWT\obj\Debug\netcoreapp2.2\RoleBasedJWT.RazorAssemblyInfo.cache
+C:\Users\SAPL_PC\source\repos\RoleBasedJWT\RoleBasedJWT\obj\Debug\netcoreapp2.2\RoleBasedJWT.RazorAssemblyInfo.cs
+C:\Users\SAPL_PC\source\repos\RoleBasedJWT\RoleBasedJWT\obj\Debug\netcoreapp2.2\RoleBasedJWT.AssemblyInfoInputs.cache
+C:\Users\SAPL_PC\source\repos\RoleBasedJWT\RoleBasedJWT\obj\Debug\netcoreapp2.2\RoleBasedJWT.AssemblyInfo.cs
+C:\Users\SAPL_PC\source\repos\RoleBasedJWT\RoleBasedJWT\obj\Debug\netcoreapp2.2\RoleBasedJWT.RazorTargetAssemblyInfo.cache
+C:\Users\SAPL_PC\source\repos\RoleBasedJWT\RoleBasedJWT\bin\Debug\netcoreapp2.2\RoleBasedJWT.pdb
+C:\Users\SAPL_PC\source\repos\RoleBasedJWT\RoleBasedJWT\obj\Debug\netcoreapp2.2\RoleBasedJWT.dll
+C:\Users\SAPL_PC\source\repos\RoleBasedJWT\RoleBasedJWT\obj\Debug\netcoreapp2.2\RoleBasedJWT.pdb
